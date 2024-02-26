@@ -10,6 +10,7 @@ namespace AlgoritmsAndDataStructures
     {
         static void Main(string[] args)
         {
+            int a = new int();
         }
     }
 }
